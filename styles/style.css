@@ -101,10 +101,10 @@ object-fit: cover;
   object-fit: cover;
 }
 
-.content__video-card-description-container {
+/*.content__video-card-description-container {
 
 
-}
+}*/
 
 .search-form__fieldset-title {
   font-size: 18px;
@@ -138,9 +138,9 @@ object-fit: cover;
   text-transform: uppercase;
 }
 
-.content__video-card-description {
+/*.content__video-card-description {
 
-}
+}*/
 
 .visually-hidden {
   position: absolute;
@@ -177,9 +177,9 @@ object-fit: cover;
   border: none;
 }
 
-.search-form__fieldset-title {
+/*.search-form__fieldset-title {
   
-}
+}*/
 
 .search-form__checkbox {
   display: inline-block;
@@ -246,9 +246,9 @@ video {
   object-position: center;
 }
 
-.search-form__textfield:has(:focus-visible) {
+/*.search-form__textfield:has(:focus-visible) {
   
-}
+}*/
 
 .search-form__label:hover {
   text-decoration: underline;
