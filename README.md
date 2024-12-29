@@ -1,1 +1,1 @@
-https://github.com/BuianTsybenov/posmotri_v_okno-fd.git
+https://github.com/BuianTsybenov/posmotri-v-okno-fd.git
